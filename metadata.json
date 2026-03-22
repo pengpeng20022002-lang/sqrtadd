@@ -1,0 +1,5 @@
+{
+  "name": "二次根式運算練習器",
+  "description": "一個互動式的二次根式加減乘除練習程式，支援 LaTeX 顯示與自動對錯判斷。",
+  "requestFramePermissions": []
+}
